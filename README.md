@@ -1,1 +1,1 @@
-# aws-ec2-lampstack
+# AWS EC2 Lamp Stack
